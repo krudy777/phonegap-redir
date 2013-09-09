@@ -1,0 +1,1 @@
+document.getElementById('proba').innerHTML = 'JavaScript loaded from device';
